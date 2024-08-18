@@ -25,7 +25,7 @@ function page() {
                 </div>
                 <button onClick={()=>{
                   deletel(i)
-                }} className='bg-red-400 py-1 px-4 rounded-lg text-lg font-bold '>Delete</button>
+                }} className='bg-green-400 py-1 px-4 rounded-lg text-lg font-bold '>Delete</button>
               </li>
   })}
 
